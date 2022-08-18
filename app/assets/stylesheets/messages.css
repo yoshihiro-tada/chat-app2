@@ -24,19 +24,19 @@
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
-  padding-left: 0 40px;
 }
 .chat_header{
   height: 100px;
   width: 100%;
+  padding: 0 40px;
 }
 .chat_main{
   height: calc(100vh - 100px - 90px);
   background-color: #fafafa;
-  padding-top: 46px;
+  padding: 46px 40px 0;
 }
 .chat_bottom{
   height: 90px;
   background-color: #dddddd;
-  padding: 20px 0;
+  padding: 20px 40px;
 }
